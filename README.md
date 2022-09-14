@@ -5,7 +5,7 @@
 > * 姓名：邱致瑋  
 > * 系級：科技應用與人力資源發展學系二年級 乙班  
  
->+ [**1. Notes** ](https://github.com/willchiou1012/Web#Notes)
+>+ [**1. Notes** ](https://github.com/willchiou1012/Web##Notes)
  
 ## :books: Notes
 > * 課程筆記區

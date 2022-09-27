@@ -9,7 +9,7 @@
 ## 📑目錄
 >+ [**1.課程筆記區** ](https://github.com/willchiou1012/Web/blob/main/README.md#%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98%E7%9B%AE%E9%8C%84%E5%8D%80)
 >+ [**2.作業連結區** ](https://github.com/willchiou1012/Web/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80)
->+ [**3.專題連結區** ](https://github.com/willchiou1012/Web/blob/main/README.md#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%)
+>+ [**3.專題連結區** ](https://github.com/willchiou1012/Web/blob/main/README.md#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)
 ---
 ## 📚課程筆記目錄區  
 >+ [**Week 1**](https://github.com/willchiou1012/Web/blob/main/README.md#week-1)
